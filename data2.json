@@ -1,0 +1,23 @@
+{
+    "slug": "mct1",
+    "blocks": [
+        {
+            "type": "section",
+            "block": {
+                "title": "Minecraft Type 1 Diabetes - GITHUB 2",
+                "subtitle": "Subtitle",
+                "html": "<h2>MC:T1 &#8211; Minecraft for Type 1 Diabetes &#8212; GITHUB</h2>\n<p>Type 1 diabetes can be tough. Whether learning to control your own condition, trying to help a recently-diagnosed family member, or just getting your friends to understand, the road to good diabetes management can be difficult, even frustrating at times.</p>\n<p>But it doesn’t have to be.</p>\n<h3>Learn through play</h3>\n<p>Created by the founders of Magikcraft.io, Minecraft for Type 1 Diabetes (MC:T1) is an open-source Minecraft mod aimed at teaching diabetics and non-diabetics about the condition. We want to leverage the inherent engagement and fun of gaming to help kids (and adults) work through tough topics.</p>\n<h3>What better game than Minecraft?</h3>\n<p>With over 74 million people playing every month, Minecraft is the most popular game of this generation. Players as young as 5 can enjoy the easily understood controls, enormous depth and myriad of different play-styles. The huge player-base and ease of access makes Minecraft not only a great gaming experience but a brilliant tool for education, activism and health.</p>\n",
+                "image": "http://wp/wp-content/uploads/2019/04/59647229_2228909740511611_1950845867502075904_n.jpg"
+            }
+        }
+    ],
+    "socials": [
+        {
+            "type": {
+                "value": "github",
+                "label": "GitHub"
+            },
+            "url": "https://github.com/Magikcraft"
+        }
+    ]
+}
